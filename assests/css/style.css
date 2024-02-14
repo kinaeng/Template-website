@@ -142,16 +142,16 @@ nav {
   margin-right: 10px;
 }
 
-.footer-top-item:nth-child(2) h4{
- margin-bottom: 1rem;
+.footer-top-item:nth-child(2) h4 {
+  margin-bottom: 1rem;
 }
 
-.footer-top-item:nth-child(3) h4{
+.footer-top-item:nth-child(3) h4 {
   margin-bottom: 1rem;
 
-} 
+}
 
-.footer-bottom{
+.footer-bottom {
   background-color: #f0f0f0;
   padding: 1rem;
   text-align: center;
